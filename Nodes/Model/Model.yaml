@@ -1,0 +1,18 @@
+Name: Model
+Type: FolderType
+Children:
+- Name: VarInteger
+  Id: g=c84598078450a4035827aba06ba7653d
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: VarBoolean
+  Id: g=ef6003d6804f4a46f5f235a3acddd453
+  Type: BaseDataVariableType
+  DataType: Boolean
+  Value: false
+- Name: VarString
+  Id: g=00f8cf188ce8534433e03eb239e29d50
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "hello"

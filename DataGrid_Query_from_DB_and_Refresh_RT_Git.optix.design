@@ -1,0 +1,18 @@
+Project:
+ Name: DataGrid_Query_from_DB_and_Refresh_RT_Git_Design
+ ProjectNamespaceIndex: 4
+ Description: ''
+ Company: ''
+ Copyright: ''
+ FormatVersion: 1
+ ProductVersion: 1.0
+ CoreVersion: 1.0
+ Dependencies:
+  2:
+   Uri: DataGrid_Query_from_DB_and_Refresh_RT_Git
+   RelativePath: DataGrid_Query_from_DB_and_Refresh_RT_Git.optix
+  3:
+   Uri: 'urn:FTOptix:CoreBase'
+   Module: FTOptix.CoreBase
+   Version: 1.0
+ Nodes: []
